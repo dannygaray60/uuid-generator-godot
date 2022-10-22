@@ -7,7 +7,8 @@ Then you will see a new button here:
 
 ![](https://raw.githubusercontent.com/dannygaray60/uuid-generator-godot/main/how_to_use.png)
 
-###[This plugin uses the godot-uuid library developed by binogure studio.](https://github.com/binogure-studio/godot-uuid)
+### Note:
+This plugin uses the [godot-uuid library](https://github.com/binogure-studio/godot-uuid) developed by binogure studio.
 
 # Credits
 
