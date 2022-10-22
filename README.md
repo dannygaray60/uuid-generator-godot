@@ -1,5 +1,5 @@
 # uuid-generator-godot
-Plugin for an unique identifier generation (UUID)
+Plugin for an unique identifier generation (UUID). The generated UUID is copied to the clipboard
 
 # How to use
 Just copy the `addons/uuid` `addons/uuid_generator` folders to your addons. And enable `UUID Generator` plugin from Project Settings.
