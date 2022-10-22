@@ -14,7 +14,7 @@ This plugin uses the [godot-uuid library](https://github.com/binogure-studio/god
 
 This plugin was made by [Danny Garay](https://twitter.com/dannygaray60)
 
-**Icon made by svgrepo.com**
+**Icon made by base made by Rizki Ahmad Fauzi**
 
 Website
 [https://dannygaray60.github.io/](https://dannygaray60.github.io/)
